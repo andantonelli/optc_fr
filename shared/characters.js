@@ -739,6 +739,13 @@ const allRareRecruitCharactersList = [
               hasSupport: false,
             },
             {
+              id: "5014",
+              imgUrl: "https://onepiecetreasurecruise.fr/img/characters/legend/sixstars/f5014.png",
+              hasLb: true,
+              hasKeyLb: true,
+              hasSupport: true,
+            },
+            {
               id: "3920",
               imgUrl:
                 "https://i.imgur.com/LDu8GO2.png",
@@ -2457,13 +2464,6 @@ const allRareRecruitCharactersList = [
               hasLb: true,
               hasKeyLb: true,
               hasSupport: false,
-            },
-            {
-              id: "5014",
-              imgUrl: "https://onepiecetreasurecruise.fr/img/characters/legend/sixstars/f5014.png",
-              hasLb: true,
-              hasKeyLb: true,
-              hasSupport: true,
             },
           ],
         ],
